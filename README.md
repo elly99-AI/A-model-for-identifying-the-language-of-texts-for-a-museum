@@ -1,4 +1,5 @@
 # MuseumLangID: Automatic Language Identification for Museum Descriptions
+Project developed during the Master in AI Developer at Profession AI
 
 ## Introduction
 MuseumLangID is a Machine Learning project built on Natural Language Processing (NLP) techniques, designed to solve the multilingual management challenges faced by an international museum.  
